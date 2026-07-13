@@ -64,13 +64,13 @@ export function Hero() {
       <div className="relative z-10 mx-auto flex w-full max-w-7xl flex-col justify-center px-4 pb-28 pt-32 sm:px-6 md:pb-32 lg:px-8 lg:pt-36">
         <div className="max-w-3xl">
           <h1 className="hero-reveal max-w-3xl font-heading text-4xl font-semibold leading-tight text-brand-white sm:text-5xl md:text-6xl lg:text-7xl">
-            Tradição e Excelência em Cada Detalhe do Seu Couro
+            Tradição e Excelência em Cada Detalhe
           </h1>
 
           <p className="hero-reveal hero-reveal-delay-1 mt-6 max-w-2xl text-base leading-7 text-brand-offwhite/90 sm:text-lg md:text-xl md:leading-8">
-            Há décadas cuidando de calçados, bolsas, malas e artigos de couro
-            em Valinhos, com a técnica artesanal e o acabamento premium que sua
-            peça merece.
+            Há 5 anos cuidando de calçados, bolsas, malas e artigos de couro em
+            Valinhos, dando continuidade à tradição da família com a técnica
+            artesanal e o acabamento premium que sua peça merece.
           </p>
 
           <div className="hero-reveal hero-reveal-delay-2 mt-9 flex w-full flex-col gap-4 sm:w-auto sm:flex-row">

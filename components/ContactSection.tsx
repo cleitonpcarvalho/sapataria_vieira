@@ -72,17 +72,14 @@ export function ContactSection() {
             <p className="font-ui text-sm font-semibold uppercase text-brand-terracotta">
               Contato
             </p>
-            <h2 className="mt-4 font-heading text-4xl font-semibold leading-tight text-brand-white sm:text-5xl">
-              Vamos Cuidar do Seu Couro
-            </h2>
-            <p className="mt-5 text-base leading-8 text-brand-offwhite/85 sm:text-lg">
+            <p className="mt-4 text-base leading-8 text-brand-offwhite/85 sm:text-lg">
               Fale agora com a gente e receba seu orçamento sem compromisso,
               com orientação clara para cuidar melhor da sua peça.
             </p>
           </div>
         </ScrollReveal>
 
-        <div className="mt-14 grid gap-5 md:grid-cols-3">
+        <div className="mt-10 grid gap-5 md:grid-cols-3">
           {contactBlocks.map((block, index) => {
             const Icon = block.icon;
 
